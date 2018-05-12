@@ -1,0 +1,33 @@
+_repo: Camp-fire-and-Wigwam_25966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mississippi River -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Camp-fire and Wigwam
+url: http://www.gutenberg.org/ebooks/25966
